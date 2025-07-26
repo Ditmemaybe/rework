@@ -313,8 +313,8 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "AndepZai Hub rework",
-    SubTitle = "test 🇻🇳",
+    Title = "MPRESENTS HUB",
+    SubTitle = "by lxlc and TempRelease",
     TabWidth = 160,
     Theme = "Dark",
     Acrylic = false,
@@ -323,28 +323,28 @@ local v15 = v14:CreateWindow({
 });
 local v16 = {
     Home = v15:AddTab({
-        Title = "Thông Tin"
+        Title = "idk"
     }),
     Main = v15:AddTab({
-        Title = "Cày"
+        Title = "fram"
     }),
     Sea = v15:AddTab({
-        Title = "Sự Kiện"
+        Title = "idk"
     }),
     ITM = v15:AddTab({
-        Title = "Vật Phẩm"
+        Title = "idk"
     }),
     Setting = v15:AddTab({
-        Title = "Cài Đặt"
+        Title = "idl"
     }),
     Status = v15:AddTab({
-        Title = "Máy Chủ"
+        Title = "idk"
     }),
     Stats = v15:AddTab({
-        Title = "Chỉ Số"
+        Title = "idk"
     }),
     Player = v15:AddTab({
-        Title = "Người Chơi"
+        Title = "idk"
     }),
     Teleport = v15:AddTab({
         Title = "Dịch Chuyển"
