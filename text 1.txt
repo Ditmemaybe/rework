@@ -1,7 +1,7 @@
 -- discord.gg/tboyroblox
 
 
-shared.LoaderTitle = "Andepzai Hub rework";
+shared.LoaderTitle = "MPRESENTS HUB";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -96,7 +96,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://98216492508597",
+    Image = "rbxassetid://97536840734459",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -9324,7 +9324,7 @@ spawn(function()
     end
 end);
 v14:Notify({
-    Title = "AndepZai rework",
-    Content = "Tải Xong",
+    Title = "MPRESENTS HUB",
+    Content = "EZ",
     Duration = 10
 });
